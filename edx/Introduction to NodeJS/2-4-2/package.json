@@ -1,0 +1,14 @@
+{
+  "name": "2-4-2",
+  "version": "0.0.0",
+  "description": "2-4-2",
+  "main": "app.js",
+  "author": {
+    "name": "phoen"
+  },
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "express": "4.16.3",
+    "morgan": "1.9.0"
+  }
+}
