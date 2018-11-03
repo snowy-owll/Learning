@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "3-mongodb-tutorial-lab", "3-mongodb-tutorial-lab.njsproj", "{B4A6C737-1362-4002-9D02-EA58134B4EE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A6C737-1362-4002-9D02-EA58134B4EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A6C737-1362-4002-9D02-EA58134B4EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A6C737-1362-4002-9D02-EA58134B4EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A6C737-1362-4002-9D02-EA58134B4EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB5E504A-A4ED-44CF-A74B-9F385AB28788}
+	EndGlobalSection
+EndGlobal

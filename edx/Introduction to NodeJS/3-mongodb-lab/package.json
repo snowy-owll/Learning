@@ -1,0 +1,13 @@
+{
+  "name": "3-mongodb-lab",
+  "version": "0.0.0",
+  "description": "3-mongodb-lab",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "async": "2.6.1",
+    "mongodb": "3.1.8"
+  }
+}
