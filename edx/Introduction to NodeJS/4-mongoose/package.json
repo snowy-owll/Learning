@@ -1,0 +1,12 @@
+{
+  "name": "4-mongoose",
+  "version": "0.0.0",
+  "description": "4-mongoose",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "mongoose": "5.3.9"
+  }
+}

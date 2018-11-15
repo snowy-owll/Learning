@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "4-mongoose-lab", "4-mongoose-lab.njsproj", "{C4DE208C-FAA6-4412-A461-9A762B5037E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4DE208C-FAA6-4412-A461-9A762B5037E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DE208C-FAA6-4412-A461-9A762B5037E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4DE208C-FAA6-4412-A461-9A762B5037E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4DE208C-FAA6-4412-A461-9A762B5037E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBBC1468-06FB-424B-8006-BB6DDA8B9830}
+	EndGlobalSection
+EndGlobal
